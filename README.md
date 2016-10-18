@@ -1,8 +1,6 @@
 PRSS_programYM
 ==============
 
-Title of the paper: PRSS to Aid Palaeocontinental Reconstructions Simulation Research 
-Authors: Liang Feng, Chen Jianping, Yu Miao, Gong Fuxiu, Yu Pingping, Tian Hui
 The paper will be published in Computers and Geosciences. 
 
 Description of the code: 
